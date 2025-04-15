@@ -1,23 +1,21 @@
-# Brainrot Studio LLC 🎮✨
+# Brainrot Studio LLC
 
-Welcome to the official GitHub organization page for **Brainrot Studio LLC**—a company where we combine our love of video games with our professional skills. Here, you'll find the code, projects, and all the cool stuff we have been working on. 🚀
-
----
-
-## About Brainrot Studio LLC 🧠💥
-
-At Brainrot Studio, we're more than just a development company. We're a community of gamers, programmers, storytellers, and lovers of all things nerdy (just like you!). 🤓💡
-
-We thrive on creating high-quality projects that make you smile. Our mantra is simple: only make games we would actually play ourselves. 🎮❤️
+This is the official GitHub for Brainrot Studio LLC — a small development studio focused on building things we actually care about. Mostly games, sometimes tools, always something we’d want to use ourselves.
 
 ---
 
-## Our Projects & Philosophy 🌟
+## About
 
-Our projects are a labor of love, creativity, and a touch of mischief. Whether it's a small indie game or a sprawling epic adventure, every project reflects our passion for innovation and the joy of gaming. Here’s what drives us:
-
-- **Creativity First:** We love being creative.  Whether that be with cool story lines, unique game mechanics, or crazy events. 🎨🔥
-- **Community-Centric:** We believe in listening to our community!  A lot of game companies forget who is actually playing their games, we do not. 💬🤝
-- **Quality & Fun:** From pixel art to complex code, we put significant effort into making sure that not only are our games fun, but also beautiful. 🛠️😊
+Brainrot Studio is just a few people who like making stuff. We're gamers, programmers, and people who like experimenting. We’re not trying to be flashy — we just want to make things that are fun, useful, or both.
 
 ---
+
+## What We Care About
+
+- Make things we’d actually play or use  
+- Keep it fun, creative, and personal  
+- Don’t overcomplicate it  
+
+---
+
+That’s pretty much it. Check out the projects. More coming when they’re ready.
