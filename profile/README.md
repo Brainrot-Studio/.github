@@ -1,12 +1,12 @@
 # Brainrot Studio LLC
 
-This is the official GitHub for Brainrot Studio LLC — a small development studio focused on building things we actually care about. Mostly games, sometimes tools, always something we’d want to use ourselves.
+This is the official GitHub for Brainrot Studio LLC, a small development studio focused on building things we actually care about. Mostly games, sometimes tools, always something we’d want to use ourselves.
 
 ---
 
 ## About
 
-Brainrot Studio is just a few people who like making stuff. We're gamers, programmers, and people who like experimenting. We’re not trying to be flashy — we just want to make things that are fun, useful, or both.
+Brainrot Studio is just a few people who like making stuff. We're gamers, programmers, and people who like experimenting. We’re not trying to be flashy, we just want to make things that are fun, useful, or both.
 
 ---
 
